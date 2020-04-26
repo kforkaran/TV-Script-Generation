@@ -1,6 +1,6 @@
 # TV-Script-Generation
 This repo contains an PyTorch implementation of an RNN using LSTM to generate a TV Script.
-RNN generates [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV Script after learning from its scripts as data.
+RNN generates [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV Script after learning from its scripts as input data.
 
 ## Network Architecture
   - Embedding layer of 400 dimension
