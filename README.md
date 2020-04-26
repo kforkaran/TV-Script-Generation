@@ -1,5 +1,5 @@
 # TV-Script-Generation
-This repo contains an PyTorch implementation of a LSTM to generate a TV Script.
+This repo contains a PyTorch implementation of a LSTM to generate a fake TV Script.
 The network generates [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV Script after learning from its scripts as input data.
 
 ## Network Architecture
